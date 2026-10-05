@@ -1,1 +1,2 @@
 Estudando Git e GitHub em Design Profissional.
+Etudando  Python em algoritmos e pensamentos computacionais.
